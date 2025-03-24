@@ -1,0 +1,32 @@
+.form {
+    background-color: #313c5e;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+    padding: 10px 10px;
+    width: 40%;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+    font-size: 40px;
+    color: black;
+    background-color: #313c5e;
+}
+.addButton{
+    width: 30%;
+}
+p{
+    color: white;
+    font-size: 25px;
+    background-color: #313c5e;
+    text-align: center;
+}
+.bgcolor{
+    background-color: #313c5e;
+}
+.button Button{
+    font-size: 30px;
+    background-color: #313c5e;
+}
