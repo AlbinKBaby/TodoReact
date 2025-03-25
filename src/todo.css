@@ -17,7 +17,7 @@ h3 {
 .addButton{
     width: 30%;
 }
-p{
+span{
     color: white;
     font-size: 25px;
     background-color: #313c5e;
@@ -29,4 +29,5 @@ p{
 .button Button{
     font-size: 30px;
     background-color: #313c5e;
+    margin-right: 10px;
 }
